@@ -36,7 +36,7 @@ Navigating to the `hooks/pre-commit` file, we are going to add one or both of th
 
 ---
 
-UPDATE:
+UPpubDatetime:
 
 This section has been updated with a new version of the hook that is smarter. It will now not increment the `modDatetime` until the post is published. On the first publish, set the draft status to `first` and watch the magic happen.
 
