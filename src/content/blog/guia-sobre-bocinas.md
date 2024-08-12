@@ -1,6 +1,6 @@
 ---
 title: "Todo lo que Necesitas Saber Sobre Bocinas"
-pubDatetime: 2024-24-07
+pubDatetime: 2024-08-12T04:58:53Z
 description: "Una guía completa sobre bocinas, abarcando sus tipos, cómo funcionan, y consejos para elegir la adecuada."
 tags: ["bocinas", "audio", "tecnología", "sonido", "altavoces"]
 ---
